@@ -1,0 +1,10 @@
+"Myotis nattereri (Kuhl 1817)",49.76681,-7.556430000000001
+"Myotis nattereri (Kuhl 1817)",49.76681,-7.556439999999999
+"Myotis nattereri (Kuhl 1817)",49.7668,-7.556439999999999
+"Myotis nattereri (Kuhl 1817)",49.7668,-7.556430000000001
+"Myotis nattereri (Kuhl 1817)",49.7668,-7.5564
+"Myotis nattereri (Kuhl 1817)",49.76679,-7.556439999999999
+"Myotis nattereri (Kuhl 1817)",49.766999999999996,-7.556
+
+"Myotis nattereri (Kuhl 1817)",49.92317,-0.93374
+"Myotis nattereri (Kuhl 1817)",49.94518,-2.07102
